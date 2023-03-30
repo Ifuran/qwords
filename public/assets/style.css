@@ -1,0 +1,22 @@
+.btn-login	{
+	border: solid #f66331 1px;
+	color: 	#f66331;
+}
+.btn-login:hover {
+	background-color: #f66331;
+	color:  #fff;
+}
+.btn-beli {
+	padding: 20px 50px;
+	background-color: #f66331;
+	border: solid #f66331 1px;
+	color: #fff;
+}
+.btn-beli:hover {
+	background-color: #f66331;
+	color: #fff;
+	opacity: 0.8;
+}
+.support img {
+	width: 20%;
+}
